@@ -20,7 +20,7 @@ The best way to install `documentation-builder` is with `snap <https://snapcraft
 
 .. code:: bash
 
-    sudo snap install documentation-builder
+    sudo snap install documentation-builder --classic
 
 If you don't have `snap`  on your system, you can also install it with `pip3`:
 

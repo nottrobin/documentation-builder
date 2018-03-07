@@ -5,7 +5,7 @@ description: |
   A tool to build repositories of markdown files of documentation into HTML pages
 
 grade: stable
-confinement: strict
+confinement: classic
 
 parts:
   repo:
